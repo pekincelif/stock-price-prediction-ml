@@ -34,7 +34,7 @@ The project uses the following columns from the Alpha Vantage dataset:
 
 2. Install dependencies:
     ```bash
-   cd Stock-Price-Prediction-Linear-Regression
+   cd stock-price-prediction-ml
    pip install -r requirements.txt
 
 3. Obtain an API key from Alpha Vantage: [Alpha Vantage API](https://www.alphavantage.co/support/#api-key)
