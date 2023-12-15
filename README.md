@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project utilizes linear regression to predict stock prices based on historical data obtained from the Alpha Vantage API. The goal is to provide users with insights into potential future stock price movements, aiding in investment decisions, risk management, and financial planning.
+This project utilizes svm to predict stock prices based on historical data obtained from the Alpha Vantage API. The goal is to provide users with insights into potential future stock price movements, aiding in investment decisions, risk management, and financial planning.
 
 ## Features Used for Prediction
 
